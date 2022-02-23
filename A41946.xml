@@ -1,0 +1,359 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Great Straffords farewell to the world, or, His ultimum vale to all earthly glory written by his owne hand in the Tower, and left behinde him for his friends or foes to peruse and consider.</title>
+            <author>Strafford, Thomas Wentworth, Earl of, 1593-1641.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41946</idno>
+            <idno type="STC">Wing G1756</idno>
+            <idno type="STC">ESTC R26761</idno>
+            <idno type="EEBO-CITATION">09531715</idno>
+            <idno type="OCLC">ocm 09531715</idno>
+            <idno type="VID">43539</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41946)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43539)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1332:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Great Straffords farewell to the world, or, His ultimum vale to all earthly glory written by his owne hand in the Tower, and left behinde him for his friends or foes to peruse and consider.</title>
+                  <author>Strafford, Thomas Wentworth, Earl of, 1593-1641.</author>
+               </titleStmt>
+               <extent>[6] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Strafford, Thomas Wentworth, --  Earl of, 1593-1641.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43539:1" rendition="simple:additions"/>
+            <p>Great STRAFFORDS FAREVVELL To the World: Or his <hi>
+                  <g ref="char:V">Ʋ</g>LTIM<g ref="char:V">Ʋ</g>M VALE</hi> To all earthly Glory.</p>
+            <p>Written by his owne Hand in the Tower, and left behinde him for his friends or foes to peruſe and conſider.</p>
+            <figure>
+               <head>Thomas Earle of Strafford L Leutenant of Ireland.</head>
+               <figDesc>depiction of Thomas Wentworth, Earl of Strafford</figDesc>
+            </figure>
+            <p>Printed in the yeare 1641.</p>
+            <pb facs="tcp:43539:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="valedictory_poem">
+            <pb facs="tcp:43539:2" rendition="simple:additions"/>
+            <head>
+               <hi>Great</hi> Straffords <hi>farewell to the world:</hi> Or, his <hi>Vltimum Vale</hi> to all earthly GLORY.</head>
+            <lg>
+               <l>YOu whoſe great birth, and favour with your Prince,</l>
+               <l>May make you dreame you can all truth convince;</l>
+               <l>You whoſe ambitious thoughts doe ſtill aſpire,</l>
+               <l>And being at the higheſt, would be higher:</l>
+               <l>Obſerve my life and death, I pray you all,</l>
+               <l>And ſhun my folly to avoide my fall.</l>
+            </lg>
+            <lg n="2">
+               <l>I once was great and greatly in eſteeme,</l>
+               <l>But time miſſpent I cannot now redeem;</l>
+               <l>I had preferment, learning, wit and Law,</l>
+               <l>Theſe did advance me, but withall withdraw</l>
+               <l>My native goodneſſe from me, ſo that I</l>
+               <l>Grew worſe and worſe, by growing dignity.</l>
+            </lg>
+            <lg n="3">
+               <l>The Bee and Spider have a different power,</l>
+               <l>For note their nature, from the ſelfe ſame flower</l>
+               <l>The one ſucks hony, th' other poiſon draws,</l>
+               <l>And thus men fare in Gods or humane Lawes;</l>
+               <l>Good wits judge well, the bad make ill conſtruction,</l>
+               <l>The latter turns to many a mans deſtruction.</l>
+            </lg>
+            <lg n="4">
+               <pb facs="tcp:43539:3"/>
+               <l>I knew enough, leſſe would have been more fit,</l>
+               <l>Unleſſe I'de had more grace to governe it;</l>
+               <l>My wit and learning made me too too proud,</l>
+               <l>And under greatneſſe many ſins to ſhroud;</l>
+               <l>I have (although it gave not all content)</l>
+               <l>Long time conteſted with a Parliament.</l>
+            </lg>
+            <lg n="5">
+               <l>I have beene long under Sir <hi>Williams</hi> hands,</l>
+               <l>Troubleſome to the Guard and the traine Bands;</l>
+               <l>Times ancient Chronicles reade o're and ſee,</l>
+               <l>You'le hardly find a preſident like me;</l>
+               <l>But what's become of all my wit and skill?</l>
+               <l>I muſt bid all farewell at Tower hill.</l>
+            </lg>
+            <lg n="6">
+               <l>And I muſt die in open publique ſhew,</l>
+               <l>That diſcontented people all may know,</l>
+               <l>When I am gone and being once appeaſ'd,</l>
+               <l>Hevens grant they may of all their griefe be eaſ'd;</l>
+               <l>The author I have been of many a fault,</l>
+               <l>But ſome will yet ſurvive, that made me hault.</l>
+            </lg>
+            <lg n="7">
+               <l>He that my light and lanthorne ſhould have bin,</l>
+               <l>To lead me from, did draw me unto ſin;</l>
+               <l>His promiſes and proteſtations large,</l>
+               <l>Made me forget my God, my ſelfe, my charge;</l>
+               <l>My greatneſſe wanting goodneſſe now is come,</l>
+               <l>Unto a heavy, headleſſe mortall doome.</l>
+            </lg>
+            <lg n="8">
+               <l>Ah! why ſhould great men greater wiſh to be?</l>
+               <l>As if they thirſted all for Majeſty?</l>
+               <l>Is not a Princes grace, a grace proficient?</l>
+               <l>Is not a Princes favour held ſufficient?</l>
+               <l>Yes next to Gods, but here's the counter-buffe,</l>
+               <l>Some great ones think they never have enough.</l>
+            </lg>
+            <lg n="9">
+               <pb facs="tcp:43539:3" rendition="simple:additions"/>
+               <l>Some lately placed very neare the King,</l>
+               <l>Have had ſuch honour time and chance did bring,</l>
+               <l>Such dignities on them have been confer'd,</l>
+               <l>As that no ſubjects have been more prefer'd;</l>
+               <l>But what of that? if they had yet had more,</l>
+               <l>They that are ne're content, are ſtill moſt poore.</l>
+            </lg>
+            <lg n="10">
+               <l>How wofull now am I? once one of them</l>
+               <l>Who dreamt of ſomething like a Diadem.</l>
+               <l>How wretched is that man that late did hope,</l>
+               <l>Perhaps to weare the Miter, and be Pope?</l>
+               <l>Where are thoſe other two that were ſo great?</l>
+               <l>They ſcarce could have a more Majeſticke ſeat.</l>
+            </lg>
+            <lg n="11">
+               <l>Some of them are eſcap'd (God knows whither)</l>
+               <l>So far men judge, they'le ne're return back hither;</l>
+               <l>Some of them are in hold, my ſelfe am one,</l>
+               <l>Who have juſt cauſe to grieve, lament and mone;</l>
+               <l>I often have been toſt from poſt to pillar,</l>
+               <l>'Tis hard when as the fore horſe muſt goe thiller.</l>
+            </lg>
+            <lg n="12">
+               <l>Proud <hi>Haman</hi> deem'd himſelfe much more then man</l>
+               <l>But <hi>Heſter</hi> of the King ſuch favour wan,</l>
+               <l>That all the devilliſh plots by <hi>Ham<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n</hi> laid,</l>
+               <l>Were found, diſcover'd, fruſtrate, and made voide;</l>
+               <l>The fatall tree for <hi>Mordecay</hi> ſet up,</l>
+               <l>Proud <hi>Hamans</hi> death, he taſted firſt that cup.</l>
+            </lg>
+            <lg n="13">
+               <l>This <hi>Haman</hi> doubtleſſe was a favourite,</l>
+               <l>Did ſway the King ſometimes againſt the right,</l>
+               <l>He did intend and had commiſſions ſent,</l>
+               <l>To cut beleevers off incontinent;</l>
+               <l>But God by <hi>Heſter</hi> did prevent the ſame,</l>
+               <l>And <hi>Hamans</hi> project, turned to his ſhame.</l>
+            </lg>
+            <lg n="14">
+               <pb facs="tcp:43539:4"/>
+               <l>
+                  <hi>Achitophell</hi> was likewiſe held ſo deare,</l>
+               <l>That <hi>Davids</hi> Court did hardly yeeld his Peere;</l>
+               <l>He was a privy Councellor, and ſate</l>
+               <l>Where matters alwaies handled were of ſtate;</l>
+               <l>Nevertheleſſe this great man did conſpire</l>
+               <l>'Gainſt <hi>Davids</hi> throne, ſelfe-hanging was his hire.</l>
+            </lg>
+            <lg n="15">
+               <l>The fall of many favourites in times paſt,</l>
+               <l>Doth not one jot make ſome men now agaſt;</l>
+               <l>When once they are advanc'd and in great place,</l>
+               <l>They quickly ſlight their God and Princes grace;</l>
+               <l>When they have pow'r to doe even what they will,</l>
+               <l>They'le do ſmall good, yet would be greater ſtill.</l>
+            </lg>
+            <lg n="16">
+               <l>I wonder and admire men ſhould forget</l>
+               <l>Their God, their King, themſelves, and that ſame net</l>
+               <l>Which truth hath laid to catch all falſhood in,</l>
+               <l>This blinde ſtupidity doth cauſe much ſin:</l>
+               <l>This was my fault, this cauſed all my error,</l>
+               <l>This fild me firſt with pride, but now with terror.</l>
+            </lg>
+            <lg n="17">
+               <l>What have the Minions of all former times</l>
+               <l>Gain'd with their honours, but a clog of crimes?</l>
+               <l>Hath not their policy and vaine ambition,</l>
+               <l>Brought them at laſt unto a low condition?</l>
+               <l>Yes, and their dignities had better far</l>
+               <l>Bin given unto ſome Swaine that drives the car.</l>
+            </lg>
+            <lg n="18">
+               <l>Why then ſhould men ſo often wiſh in vain?</l>
+               <l>Why ſhould men plod, project and ſpend their braine?</l>
+               <l>Why ſhould men fill their hearts ſo full of care?</l>
+               <l>And all to build up Caſtles in the aire?</l>
+               <l>What are vaine hopes? but like a blaſt of wind,</l>
+               <l>Only conceived to perplex the mind.</l>
+            </lg>
+            <lg n="19">
+               <pb facs="tcp:43539:4" rendition="simple:additions"/>
+               <l>Our hopes and haps, doe for the moſt part vary,</l>
+               <l>Our wiſhes and th' events, prove quite contrary;</l>
+               <l>Our thoughts run moſt on that which moſt we crave,</l>
+               <l>Which peradventure we ſhall never have;</l>
+               <l>This proverb old is written in Times hall,</l>
+               <l>Proud men may riſe, but pride will have a fall.</l>
+            </lg>
+            <lg n="20">
+               <l>This I have tri'd and found true in my ſelfe,</l>
+               <l>For notwithſtanding all my worldly pelfe,</l>
+               <l>Yet I perceive there is no truſt in man,</l>
+               <l>The life even of a King is but a ſpan:</l>
+               <l>What is mans love, when God in anger frownes?</l>
+               <l>Subjects ſhould never dreame of earthly Crownes.</l>
+            </lg>
+            <lg n="21">
+               <l>When Lucifer was placed up on high,</l>
+               <l>Almoſt above Angellique Majeſty;</l>
+               <l>When he amongſt all Angels was the prime,</l>
+               <l>He then would needs above his Maker climbe;</l>
+               <l>But how did God his proud preſumption quell?</l>
+               <l>He caſt him downe to be a divell in hell.</l>
+            </lg>
+            <lg n="22">
+               <l>Give unto <hi>Alexander</hi> Kingdomes ſtore,</l>
+               <l>Give him even all the world, hee'le wiſh for more;</l>
+               <l>Give <hi>Midas</hi> his owne wiſh, that all he touch</l>
+               <l>May turne to gold, yet he hath ne're too much;</l>
+               <l>No dignity, no earthly riches can,</l>
+               <l>Content or pleaſe the avaritious man.</l>
+            </lg>
+            <lg n="23">
+               <l>I had (I do confeſſe) at leaſt in part,</l>
+               <l>Knowledge of Tongues, the ground of every Art;</l>
+               <l>I was my Kings I ieutenant or Viceroy,</l>
+               <l>I<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> armes and arts I did my ſelfe imploy:</l>
+               <l>I was indeed advanced too too high,</l>
+               <l>I reign'd, I rul'd, I rag'd in tyranny.</l>
+            </lg>
+            <lg n="24">
+               <pb facs="tcp:43539:5"/>
+               <l>I daily did endeavour to ſubvert</l>
+               <l>The fundamentall Lawes; I did pervert</l>
+               <l>Juſtice and equity, by fines and taxe</l>
+               <l>I ſought to make the Law a noſe of wax;</l>
+               <l>My power was great, even reaching to a Crowne,</l>
+               <l>But want of thankfulneſſe hath brought me downe.</l>
+            </lg>
+            <lg n="25">
+               <l>Mens higheſt fortunes like a watry bubble,</l>
+               <l>At biggeſt breake, meane while moſt full of trouble;</l>
+               <l>But now in full aſſurance, I relie,</l>
+               <l>Upon the alſufficient Majeſty</l>
+               <l>Of God above, there lies my faith and hope,</l>
+               <l>Living and dying, I defie the Pope.</l>
+            </lg>
+            <lg n="26">
+               <l>God bleſſe the King my ſoveraign Lord &amp; Maſter,</l>
+               <l>His Queene and off-ſpring heavens keep from diſaſter;</l>
+               <l>God bleſſe both houſes of the Parliament,</l>
+               <l>Give them united hearts with full content;</l>
+               <l>God bleſſe their counſells and proceedings all,</l>
+               <l>That vertue may be raiſed, vice may fall.</l>
+            </lg>
+            <lg n="27">
+               <l>I doe confeſſe I have deſerved death,</l>
+               <l>And willingly ſubmit to loſe my breath;</l>
+               <l>The world I freely with my heart forgive,</l>
+               <l>Since all muſt die, why ſhould I wiſh to live?</l>
+               <l>I juſtly die by th' Law, fame ring my knell,</l>
+               <l>Earths fading pompe adieu, vaine world farewell.</l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
